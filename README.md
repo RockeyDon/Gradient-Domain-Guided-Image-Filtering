@@ -1,10 +1,4 @@
 # Gradient-Domain-Guided-Image-Filtering
-#
-#   - guidance image: guidImage (should be a gray-scale/single channel image)
-#   - filtering input image: filtImage (should be a gray-scale/single channel image)
-#   - local window radius: r
-#   - regularization parameter: lam
-#
 #    References:
 #      [2] Kaiming He, Jian Sun, Xiaou Tang, "Guided Image Filtering," IEEE
 #       Transactions on Pattern Analysis and Machine Intelligence, Volume
